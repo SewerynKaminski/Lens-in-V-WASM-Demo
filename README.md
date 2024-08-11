@@ -1,2 +1,2 @@
 # Lens-in-V-WASM-Demo
-Lens distortion ported to the web
+Lens distortion demo ported to the web
